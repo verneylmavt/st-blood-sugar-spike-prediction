@@ -9,4 +9,6 @@ scikit-learn
 torch
 torchinfo
 torchviz
+shap
+captum
 tqdm
