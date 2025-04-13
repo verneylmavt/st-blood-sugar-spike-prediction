@@ -81,7 +81,7 @@ def compute_error_metrics(pred, true):
     """
     error = abs(pred - true)
     relative_error = error / abs(true) if true != 0 else float('inf')
-    percent_error = (abs(pred - true) / abs(true)) * 100 if true != 0 else float('inf')
+    percent_error = abs(abs(pred - true) / abs(true)) * 100 if true != 0 else float('inf')
     return error, relative_error, percent_error
 
 def render_prediction_metrics(error, relative_error, percent_error):
