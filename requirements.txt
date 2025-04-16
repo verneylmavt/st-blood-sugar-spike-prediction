@@ -1,15 +1,17 @@
 streamlit
 ipython
 joblib
+# numpy
+# pandas
 matplotlib
-scipy
 seaborn
+# scipy
 scikit-learn
 torch
 torchinfo
 torchviz
-shap
-captum
+# shap
+# captum
 tqdm
 
 # ipython==8.30.0
