@@ -55,8 +55,8 @@ st-blood-sugar-spike-prediction
 **Files:**
 
 - **`data_analysis.ipynb`**  
-  Notebook for exploring and visualizing the dataset, inspecting missing values, and understanding temporal trends.
-
+  Notebook for exploring, preprocessing, and visualizing the dataset.
+  
 - **`LSTM.ipynb`, `Transformer.ipynb`, `TCN.ipynb`**  
   Notebooks that detail the entire process for each deep learning model, including data importing, data splitting, creating dataset and dataloader, defining model architecture, training, evaluation, and inference.
 
