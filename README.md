@@ -31,7 +31,6 @@ st-blood-sugar-spike-prediction
 │   data_analysis.ipynb
 │   interface.py
 │   LSTM.ipynb
-│   models.py
 │   requirements.txt
 │   TCN.ipynb
 │   Transformer.ipynb
@@ -56,7 +55,7 @@ st-blood-sugar-spike-prediction
 
 - **`data_analysis.ipynb`**  
   Notebook for exploring, preprocessing, and visualizing the dataset.
-  
+
 - **`LSTM.ipynb`, `Transformer.ipynb`, `TCN.ipynb`**  
   Notebooks that detail the entire process for each deep learning model, including data importing, data splitting, creating dataset and dataloader, defining model architecture, training, evaluation, and inference.
 
