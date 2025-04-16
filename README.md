@@ -41,6 +41,8 @@ st-blood-sugar-spike-prediction
 │       train_aug_mean.csv
 │       train_test_aug.csv
 │
+├───.docs
+│
 └───.export
         checkpoint-aug-lstm.pt
         checkpoint-aug-tcn.pt
@@ -66,6 +68,9 @@ st-blood-sugar-spike-prediction
 
 - **`.data`**  
   Contains scaler objects and processed dataset CSV files for training and testing.
+
+- **`.docs`**  
+  Includes pdf report along with presentation slides for project deliverables.
 
 - **`.export`**  
   Holds model checkpoint files (pre-trained models) and generated test submission files (CSV) for each model.
