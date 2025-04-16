@@ -27,6 +27,7 @@ Key aspects of our project include:
 ## Directory Structure
 
 ```
+st-blood-sugar-spike-prediction
 │   data_analysis.ipynb
 │   interface.py
 │   LSTM.ipynb
@@ -46,11 +47,8 @@ Key aspects of our project include:
         checkpoint-aug-tcn.pt
         checkpoint-aug-tf.pt
         test_submission_aug_lstm.csv
-        test_submission_aug_lstm.png
         test_submission_aug_tcn.csv
-        test_submission_aug_tcn.png
         test_submission_aug_tf.csv
-        test_submission_aug_tf.png
 ```
 
 
