@@ -108,6 +108,9 @@ Key aspects of our project include:
 
 ## Contributors
 
-**Group 20**  
-- **Elvern Neylmav Tanny (1006203)**
-- **Vanya Jalan (1006190)**  
+This project was made possible thanks to the hard work and dedication of the following team members:
+
+- **[Elvern Neylmav Tanny](https://github.com/verneylmavt)**
+- **[Vanya Jalan](https://github.com/vanyaayy)**
+
+Kudos to all contributors for their invaluable insights and dedication.
