@@ -21,7 +21,7 @@ Key aspects of our project include:
   Comprehensive evaluation with regression metrics (RMSE, MAE, R², CCC) on internal test splits, along with external validation via Kaggle submissions.
 
 - **Interactive Interface:**  
-  A Streamlit-based interface that enables real-time inference.
+  A Streamlit-based interface that enables real-time inference. [Click here to to experience it interactively](https://g20-blood-sugar-spike-prediction.streamlit.app)
 
 
 ## Directory Structure
@@ -61,7 +61,7 @@ st-blood-sugar-spike-prediction
   Notebooks that detail the training process for each deep learning model, including architecture, training steps, and evaluation.
 
 - **`interface.py`**  
-  Implements the interactive Streamlit dashboard for real-time inference. [Click here to to experience it interactively](https://g20-blood-sugar-spike-prediction.streamlit.app)
+  Implements the interactive Streamlit dashboard for real-time inference.
 
 **Folders:**
 
