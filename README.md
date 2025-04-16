@@ -2,7 +2,6 @@
 
 This repository contains Group 20 project implementation for predicting future blood glucose levels in diabetic patients using deep learning techniques. Developed for the BrisT1D Blood Glucose Prediction Competition on Kaggle, our goal is to forecast blood glucose readings one hour ahead by leveraging past time-series data from blood glucose, insulin intake, carbohydrate intake, heart rate, steps walked, and calories burnt.
 
----
 
 ## Project Overview
 
@@ -24,7 +23,6 @@ Key aspects of our project include:
 - **Interactive Interface:**  
   A Streamlit-based interface that enables real-time inference.
 
----
 
 ## Directory Structure
 
@@ -55,7 +53,8 @@ Key aspects of our project include:
         test_submission_aug_tf.png
 ```
 
-**Root-level Files:**
+
+**Files:**
 
 - **`data_analysis.ipynb`**  
   Notebook for exploring and visualizing the dataset, inspecting missing values, and understanding temporal trends.
@@ -74,9 +73,8 @@ Key aspects of our project include:
 - **`.export`**  
   Holds model checkpoint files (pre-trained models) and generated test submission files (CSV) for each model.
 
----
 
-## Environment Setup
+## Setup & Execution
 
 1. **Clone the Repository**
 
@@ -104,7 +102,6 @@ Key aspects of our project include:
    pip install -r requirements.txt
    ```
 
----
 
 ## Contributors
 
