@@ -1,6 +1,6 @@
 # Blood Sugar Spikes Prediction
 
-This repository contains Group 20 project implementation for predicting future blood glucose levels in diabetic patients using deep learning techniques. Developed for the BrisT1D Blood Glucose Prediction Competition on Kaggle, our goal is to forecast blood glucose readings one hour ahead by leveraging past time-series data from blood glucose, insulin intake, carbohydrate intake, heart rate, steps walked, and calories burnt.
+This repository contains Group 20 project implementation for predicting future blood glucose levels in diabetic patients using deep learning techniques. Developed for the BrisT1D Blood Glucose Prediction Competition on Kaggle, our goal is to forecast blood glucose readings one hour ahead by leveraging past time-series data from blood glucose, insulin intake, carbohydrate intake, heart rate, steps walked, and calories burnt. [Check here to learn more about the competition](https://www.kaggle.com/competitions/brist1d/).
 
 
 ## Project Overview
@@ -61,7 +61,7 @@ st-blood-sugar-spike-prediction
   Notebooks that detail the training process for each deep learning model, including architecture, training steps, and evaluation.
 
 - **`interface.py`**  
-  Implements the interactive Streamlit dashboard for real-time inference.
+  Implements the interactive Streamlit dashboard for real-time inference. [Click here to to experience it interactively](https://g20-blood-sugar-spike-prediction.streamlit.app)
 
 **Folders:**
 
