@@ -1,5 +1,6 @@
+jupyter
 streamlit
-ipython
+tqdm
 joblib
 # numpy
 # pandas
@@ -10,21 +11,6 @@ scikit-learn
 torch
 torchinfo
 torchviz
-# shap
-# captum
-tqdm
-
-# ipython==8.30.0
-# joblib==1.4.2
-# numpy==1.23.5
-# pandas==2.0.3
-# matplotlib==3.7.2
-# scipy==1.10.1
-# seaborn==0.13.2
-# scikit-learn==1.5.2
-# torch==2.5.1+cu124
-# torchinfo==1.8.0
-# torchviz==0.0.3
-# shap==0.46.0
-# captum==0.7.0
-# tqdm==4.67.1
+shap
+captum
+kaggle
