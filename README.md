@@ -58,7 +58,7 @@ st-blood-sugar-spike-prediction
   Notebook for exploring and visualizing the dataset, inspecting missing values, and understanding temporal trends.
 
 - **`LSTM.ipynb`, `Transformer.ipynb`, `TCN.ipynb`**  
-  Notebooks that detail the training process for each deep learning model, including architecture, training steps, and evaluation.
+  Notebooks that detail the entire process for each deep learning model, including data importing, data splitting, creating dataset and dataloader, defining model architecture, training, evaluation, and inference.
 
 - **`interface.py`**  
   Implements the interactive Streamlit dashboard for real-time inference.
