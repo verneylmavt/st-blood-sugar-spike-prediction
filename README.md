@@ -1,4 +1,4 @@
-# SUTD 50.039 Deep Learning | Blood Sugar Spikes Prediction
+# Blood Sugar Spikes Prediction
 
 This repository contains Group 20 project implementation for predicting future blood glucose levels in diabetic patients using deep learning techniques. Developed for the BrisT1D Blood Glucose Prediction Competition on Kaggle, our goal is to forecast blood glucose readings one hour ahead by leveraging past time-series data from blood glucose, insulin intake, carbohydrate intake, heart rate, steps walked, and calories burnt.
 
