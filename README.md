@@ -42,6 +42,8 @@ st-blood-sugar-spike-prediction
 │       train_test_aug.csv
 │
 ├───.docs
+│       Group 20 Final Report.pdf
+│       Group 20 Slides.pdf
 │
 └───.export
         checkpoint-aug-lstm.pt
